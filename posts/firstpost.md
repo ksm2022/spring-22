@@ -1,6 +1,6 @@
 ---
 title: About Me.
-description: A brief description of who Kelly Maher is, her education, her family, her accomplishments.
+description: A Marketing Professional who loves her children and beautiful things.
 date: 2018-05-01
 tags:
   - another tag
