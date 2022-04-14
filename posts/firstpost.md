@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: About Me.
+description: A brief description of who Kelly Maher is, her education, her family, her accomplishments.
 date: 2018-05-01
 tags:
   - another tag
@@ -11,9 +11,9 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-## Section Header
+## Kelly's career strengths
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+I am an agile brand builder with a sizable tenure and passion for engagement. I have 23 years of experience in B2B Digital Marketing, Strategic Brand Building, and Product Marketing, with an extremely successful performance history launching new brands and expanding existing brands into international territory. I have worked with some of the largest brands and biggest agencies, as well as a global FinTech start-up. I love to use strategy to engage, promote growth and deliver results and I firmly believe in establishing key relationships that allow for better performance and growth.
 
 ```text/2-3
 // this is a command
