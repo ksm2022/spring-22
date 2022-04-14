@@ -1,6 +1,6 @@
 ---
 title: Resume.
-description: Examples of Kelly's professional work.
+description: A list of Kelly Maher's past clients, education, and achievements in her career
 date: 2018-08-24
 tags:
   - second tag
