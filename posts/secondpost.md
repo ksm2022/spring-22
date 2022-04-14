@@ -1,6 +1,6 @@
 ---
 title: Work samples.
-description: Examples of Kelly's professional work.
+description: Examples of Kelly's professional work with her favorite clients.
 date: 2018-07-04
 tags:
   - number 2
