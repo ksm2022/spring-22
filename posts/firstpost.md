@@ -7,21 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Kelly Maher has spent most of her adult years creating digital content for brands such as Volkswagen, Toyota, State Farm, Proctor & Gamble, Publix, and Bank of America. She started her career on the east coast as a Creative Director for Pace Communications, but after a few mild winters realized her heart belonged in the snowy Midwest. She began her Marketing and Design Consulting business in 2002, where she worked with Accenture and Meredith Corporation for many years and is currently Head of Content for a global FinTech start-up. Kelly is deeply passionate about customer engagement and creating beautiful things.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-## Kelly's career strengths
-
-I am an agile brand builder with a sizable tenure and passion for engagement. I have 23 years of experience in B2B Digital Marketing, Strategic Brand Building, and Product Marketing, with an extremely successful performance history launching new brands and expanding existing brands into international territory. I have worked with some of the largest brands and biggest agencies, as well as a global FinTech start-up. I love to use strategy to engage, promote growth and deliver results and I firmly believe in establishing key relationships that allow for better performance and growth.
-
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
