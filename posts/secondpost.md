@@ -1,7 +1,7 @@
 ---
 title: Work samples.
 description: Examples of Kelly's professional work with her favorite clients.
-date: 2018-07-04
+date: 2022-04-15
 tags:
   - number 2
 layout: layouts/post.njk
